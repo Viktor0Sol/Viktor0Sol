@@ -1,7 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Víctor Solís  
 
-<!--
-**Viktor0Sol/Viktor0Sol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Licenciado en Estadística por la Universidad Veracruzana** y me apasiona transformar datos en información útil para la **toma de decisiones estratégicas**.  
+
+---
+
+## 🎯 Intereses  
+- 📊 **Modelos espacio-temporales**  
+- 🤖 **Machine Learning**  
+- 💹 **Finanzas**  
+- ⚙️ **Automatización de procesos**  
+
+---
+
+## 🛠️ Tecnologías  
+- **Lenguajes y herramientas:** R, Python, Power BI, SQL, Excel  
+
+---
+
+## 📌 Experiencia  
+- 📋 **Recolección y a**
 
 Here are some ideas to get you started:
 
